@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Liri Bot 
+=======
+
+# liri.js
+>>>>>>> 114addd5d9e45956cb06ebaccb9f64bae026be02
 
 What is Liri-Bot? 
+
 Liri is a response bot that pulls data on movies, actors, songs, etc. Users are able to input specific command line arguments to pull data. 
 
 How to Use:
