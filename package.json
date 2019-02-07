@@ -11,10 +11,17 @@
     "url": "git+https://github.com/bshephe9/liri.js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Brooke Shepherd",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bshephe9/liri.js/issues"
   },
-  "homepage": "https://github.com/bshephe9/liri.js#readme"
+  "homepage": "https://github.com/bshephe9/liri.js#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
 }

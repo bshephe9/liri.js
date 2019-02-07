@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# liri.js
-
-=======
 Liri Bot 
 
 What is Liri-Bot? 
@@ -23,4 +19,3 @@ Screen Shots of the different files within the App:
 
 
 Video of Liri in use: 
->>>>>>> a1f2e12706d54eccf5a4ab0a2af0213828847340
